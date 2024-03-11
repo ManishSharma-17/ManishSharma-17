@@ -3,7 +3,7 @@
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ht1ftlb0lgacqnzviil0fvcylzar28ez9kixphrr&rid=giphy.gif&ct=g" alt="developer" width="100%" />
 # 💫 About Me:
-🌱 I’m currently working at Radial code<br><br>💬 Ask me about HTML, CSS, JS<br><br>📫 How to reach me manishsincere17@gmail.com<br><br>⚡ Fun fact I am not funny.
+🌱 I’m currently working in Front-end development.<br><br>💬 Ask me about HTML, CSS, JS<br><br>📫 How to reach me manishsincere17@gmail.com<br><br>⚡ Fun fact I am not funny.
 
 
 ## 🌐 Socials:
